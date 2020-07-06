@@ -167,6 +167,11 @@
   <ItemGroup>
     <ClInclude Include="pch.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Math\Math.vcxproj">
+      <Project>{794b814c-f2c6-4df0-a047-e9989b2cdf5d}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
