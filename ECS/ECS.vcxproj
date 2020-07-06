@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Core\ComponentArray.hpp" />
+    <ClInclude Include="Core\ComponentManager.hpp" />
+    <ClInclude Include="Core\Coordinator.hpp" />
+    <ClInclude Include="Core\EntityManager.hpp" />
+    <ClInclude Include="Core\System.hpp" />
+    <ClInclude Include="Core\SystemManager.hpp" />
+    <ClInclude Include="Core\Types.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
