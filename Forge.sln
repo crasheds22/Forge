@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ECS", "ECS\ECS.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math", "Math\Math.vcxproj", "{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphics", "Graphics\Graphics.vcxproj", "{AB798967-B2D9-4F7F-93D6-F377AA282E8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Release|x64.Build.0 = Release|x64
 		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Release|x86.ActiveCfg = Release|Win32
 		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Release|x86.Build.0 = Release|Win32
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Debug|x64.ActiveCfg = Debug|x64
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Debug|x64.Build.0 = Debug|x64
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Debug|x86.Build.0 = Debug|Win32
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Release|x64.ActiveCfg = Release|x64
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Release|x64.Build.0 = Release|x64
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Release|x86.ActiveCfg = Release|Win32
+		{AB798967-B2D9-4F7F-93D6-F377AA282E8D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
