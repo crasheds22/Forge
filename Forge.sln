@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ECS", "ECS\ECS.vcxproj", "{CF6A09C8-841D-477F-9E81-6ECBBCF38488}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math", "Math\Math.vcxproj", "{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{CF6A09C8-841D-477F-9E81-6ECBBCF38488}.Release|x64.Build.0 = Release|x64
 		{CF6A09C8-841D-477F-9E81-6ECBBCF38488}.Release|x86.ActiveCfg = Release|Win32
 		{CF6A09C8-841D-477F-9E81-6ECBBCF38488}.Release|x86.Build.0 = Release|Win32
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Debug|x64.ActiveCfg = Debug|x64
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Debug|x64.Build.0 = Debug|x64
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Debug|x86.Build.0 = Debug|Win32
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Release|x64.ActiveCfg = Release|x64
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Release|x64.Build.0 = Release|x64
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Release|x86.ActiveCfg = Release|Win32
+		{794B814C-F2C6-4DF0-A047-E9989B2CDF5D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
